@@ -1,2 +1,37 @@
-# data-tips-tricks
-Tips &amp; Tricks about data
+# Data Tips & Tricks
+
+Some Tips and Tricks about Data.
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+## Useful documents
+
+...
+
+## Useful links
+
+* [DBLog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b) - A Generic Change-Data-Capture Framework
+* [Delta](https://netflixtechblog.com/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee) - A Data Synchronization and Enrichment Platform
+
+## Useful tools
+
+...
+
+### Tomorrow I will learn about
+
+* [Apache Nifi](https://dzone.com/articles/apache-nifi-overview?fromrel=true)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
+* [dbt](https://www.getdbt.com/) - Data Build Tool
+
+## Build with
+
+* [Git](https://git-scm.com) - Open source distributed version control system
+
+## Get started with ...
+
+...
+
+## Contributing
+
+If you would like to contribute, read the CONTRIBUTING.md file to learn how to do so.
