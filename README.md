@@ -2,22 +2,16 @@
 
 Some Tips and Tricks about Data.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-## Useful documents
-
-...
+![Data](./images/data-logo-256.png)
 
 ## Useful links
 
 * [DBLog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b) - A Generic Change-Data-Capture Framework
 * [Delta](https://netflixtechblog.com/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee) - A Data Synchronization and Enrichment Platform
 
-## Useful tools
-
-...
-
-## Tomorrow I will learn about
+## Tomorrow I will learn
 
 * [Apache Nifi](https://dzone.com/articles/apache-nifi-overview?fromrel=true)
 * [FastAPI](https://fastapi.tiangolo.com/)
@@ -28,10 +22,6 @@ Some Tips and Tricks about Data.
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Get started with ...
-
-...
 
 ## Contributing
 
