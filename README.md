@@ -16,12 +16,12 @@ Some Tips and Tricks about Data.
 * [DBLog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b) - A Generic Change-Data-Capture Framework
 * [Delta](https://netflixtechblog.com/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee) - A Data Synchronization and Enrichment Platform
 * [Master Test Plan](https://dzone.com/articles/part-3-how-to-develop-a-data-integration-master-te)
+* [ETL DWH Testing](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html#:~:text=Data%20Warehouse%20Testing%20is%20a%20testing%20method%20in,order%20to%20comply%20with%20the%20company%27s%20data%20framework)
+* [DWH tutorial](https://www.tutorialspoint.com/dwh/index.htm)
 
 ## Useful resources
 
 ![Ecosystem of modern data infrastructure](./images/data-infrastructure-ecosystem.png)
-
-![DWH testing](./images/dwh-testing.png)
 
 ![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
 
