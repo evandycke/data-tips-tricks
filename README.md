@@ -21,8 +21,6 @@ Some Tips and Tricks about Data.
 
 ## Useful resources
 
-![Ecosystem of modern data infrastructure](./images/data-infrastructure-ecosystem.png)
-
 ![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
 
 ## Tomorrow I will learn
