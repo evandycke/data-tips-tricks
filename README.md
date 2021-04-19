@@ -31,6 +31,8 @@ Some Tips and Tricks about Data.
 * [dbt](https://www.getdbt.com/) - Data Build Tool
 * ORM [Apache Cayenne](https://cayenne.apache.org/)
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
+* [Visadata](https://www.visidata.org/) - Interactive multitool for tabular data
+* [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
 
 ## Build with
 
