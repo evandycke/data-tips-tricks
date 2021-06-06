@@ -23,6 +23,8 @@ Some Tips and Tricks about Data.
 
 ![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
 
+![Data Anonymization Methods](./images/data_anonymization_methods.png)
+
 ## Tomorrow I will learn
 
 * [Apache Nifi](https://dzone.com/articles/apache-nifi-overview?fromrel=true)
