@@ -35,6 +35,7 @@ Some Tips and Tricks about Data.
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
 * [Visadata](https://www.visidata.org/) - Interactive multitool for tabular data
 * [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
+* [The State of Data Engineering in 2021](https://lakefs.io/the-state-of-data-engineering-in-2021/?utm_content=bufferea4cb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 ## Build with
 
