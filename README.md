@@ -31,11 +31,15 @@ Some Tips and Tricks about Data.
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
 * [dbt](https://www.getdbt.com/) - Data Build Tool
-* ORM [Apache Cayenne](https://cayenne.apache.org/)
+* [Apache Cayenne](https://cayenne.apache.org/)
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
 * [Visadata](https://www.visidata.org/) - Interactive multitool for tabular data
 * [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
 * [The State of Data Engineering in 2021](https://lakefs.io/the-state-of-data-engineering-in-2021/?utm_content=bufferea4cb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [DocParser](https://docparser.com/)
+* [Scraper API](https://www.scraperapi.com/) - Proxy API for Web Scraping
+* [Import.io](https://www.import.io/) - Web data integration
+* [Altair Monarch](https://www.altair.com/)
 
 ## Build with
 
