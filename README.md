@@ -19,6 +19,7 @@ Some Tips and Tricks about Data.
 * [ETL DWH Testing](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html#:~:text=Data%20Warehouse%20Testing%20is%20a%20testing%20method%20in,order%20to%20comply%20with%20the%20company%27s%20data%20framework)
 * [DWH tutorial](https://www.tutorialspoint.com/dwh/index.htm)
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+* [Azimutt](https://azimutt.app/) - Explore your database schema
 
 ## Useful resources
 
