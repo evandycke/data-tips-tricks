@@ -8,8 +8,13 @@ Some Tips and Tricks about Data.
 
 ## Useful documents
 
-* ETL project plan
-* Data Integration Master Test Plan
+* [ETL project plan](./docs/ETL-project-plan.md)
+* [Data Integration Master Test Plan](./docs/Data-Integration-Master-Test-Plan.md)
+* [Best practice guidelines for ETL project](./docs/Best-practice-guidelines-for-ETL-project.md)
+* [Best practice guidelines for reviewing jobs](./docs/Best-practice-guidelines-for-reviewing-jobs.md)
+* [Comparison criteria for dataviz solutions](./docs/Comparison-criteria-for-dataviz-solutions.md)
+* [Data Infrastructure Ecoystem](./docs/Data-Infrastructure-Ecoystem.md)
+* [Data Model Design](./docs/Data-Model-Design.md)
 
 ## Useful links
 
