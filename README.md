@@ -23,7 +23,9 @@ Some Tips and Tricks about Data.
 * [Master Test Plan](https://dzone.com/articles/part-3-how-to-develop-a-data-integration-master-te)
 * [ETL DWH Testing](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html#:~:text=Data%20Warehouse%20Testing%20is%20a%20testing%20method%20in,order%20to%20comply%20with%20the%20company%27s%20data%20framework)
 * [DWH tutorial](https://www.tutorialspoint.com/dwh/index.htm)
-* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+
+## Useful tools
+
 * [Azimutt](https://azimutt.app/) - Explore your database schema
 
 ## Useful resources
@@ -31,6 +33,10 @@ Some Tips and Tricks about Data.
 ![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
 
 ![Data Anonymization Methods](./images/data_anonymization_methods.png)
+
+## Useful repositories
+
+* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook) - 
 
 ## Tomorrow I will learn
 
@@ -40,7 +46,7 @@ Some Tips and Tricks about Data.
 * [dbt](https://www.getdbt.com/) - Data Build Tool
 * [Apache Cayenne](https://cayenne.apache.org/)
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
-* [Visadata](https://www.visidata.org/) - Interactive multitool for tabular data
+* [Visidata](https://www.visidata.org/) - Interactive multitool for tabular data
 * [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
 * [The State of Data Engineering in 2021](https://lakefs.io/the-state-of-data-engineering-in-2021/?utm_content=bufferea4cb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [DocParser](https://docparser.com/)
