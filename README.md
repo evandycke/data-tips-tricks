@@ -12,7 +12,6 @@ Some Tips and Tricks about Data.
 * [Data Integration Master Test Plan](./docs/Data-Integration-Master-Test-Plan.md)
 * [Best practice guidelines for ETL project](./docs/Best-practice-guidelines-for-ETL-project.md)
 * [Best practice guidelines for reviewing jobs](./docs/Best-practice-guidelines-for-reviewing-jobs.md)
-* [Comparison criteria for dataviz solutions](./docs/Comparison-criteria-for-dataviz-solutions.md)
 * [Data Infrastructure Ecoystem](./docs/Data-Infrastructure-Ecoystem.md)
 * [Data Model Design](./docs/Data-Model-Design.md)
 
@@ -30,8 +29,6 @@ Some Tips and Tricks about Data.
 
 ## Useful resources
 
-![Data Story Visualization Decision Tree](./images/data-story-visualization-decision-tree.png)
-
 ![Data Anonymization Methods](./images/data_anonymization_methods.png)
 
 ## Useful repositories
@@ -42,12 +39,10 @@ Some Tips and Tricks about Data.
 
 * [Apache Nifi](https://dzone.com/articles/apache-nifi-overview?fromrel=true)
 * [FastAPI](https://fastapi.tiangolo.com/)
-* [Apache Superset](https://superset.apache.org/docs/intro) - Business intelligence web application
 * [dbt](https://www.getdbt.com/) - Data Build Tool
 * [Apache Cayenne](https://cayenne.apache.org/)
 * [DbFit](http://dbfit.github.io/dbfit/) - Test-driven database development
 * [Visidata](https://www.visidata.org/) - Interactive multitool for tabular data
-* [Datasette](https://datasette.io/) - Open source multi-tool for exploring and publishing data
 * [The State of Data Engineering in 2021](https://lakefs.io/the-state-of-data-engineering-in-2021/?utm_content=bufferea4cb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [DocParser](https://docparser.com/)
 * [Scraper API](https://www.scraperapi.com/) - Proxy API for Web Scraping
