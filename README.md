@@ -26,6 +26,8 @@ Some Tips and Tricks about Data.
 ## Useful tools
 
 * [Azimutt](https://azimutt.app/) - Explore your database schema
+* [Free Huge CSV Splitter](https://sourceforge.net/projects/splitcsv/) - Simply to split a huge CSV file in many chunks
+* [OpenRefine](https://openrefine.org/) - Previously Google Refine, OpenRefine is a powerful tool for working with messy data
 
 ## Useful resources
 
