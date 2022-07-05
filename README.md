@@ -50,6 +50,7 @@ Some Tips and Tricks about Data.
 * [Scraper API](https://www.scraperapi.com/) - Proxy API for Web Scraping
 * [Import.io](https://www.import.io/) - Web data integration
 * [Altair Monarch](https://www.altair.com/)
+* [Versatile Data Kit](https://github.com/vmware/versatile-data-kit) - VDK is an open source framework that enables to create their own data pipelines
 
 ## Build with
 
