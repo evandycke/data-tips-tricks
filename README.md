@@ -13,6 +13,13 @@ Quelques trucs et astuces sur la Data.
 * Un [guide](./doc/developpement/concevoir-pipeline-efficace.md) complet pour concevoir un pipeline ETL efficace
 * Top 10 des [indicateurs](./doc/developpement/top-10-kpi-developpement.md) d'une équipe de développement
 
+### Tests
+
+* Checklist d'une [revue de code](./doc/developpement/checklist-revue-code.md)
+* Modèle de [cartographie des tests](./template/tests/cartographie-tests.xltm)
+* Modèle de [grille de tests internes](./template/tests/grille-test-interne.xltx)
+* Modèle de [grille de tests génériques](./template/tests/grille-test-generique.xltx)
+
 ## Réalisé avec
 
 * [Git](https://git-scm.com)
