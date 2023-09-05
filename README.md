@@ -20,6 +20,12 @@ Quelques trucs et astuces sur la Data.
 * Modèle de [grille de tests internes](./template/tests/grille-test-interne.xltx)
 * Modèle de [grille de tests génériques](./template/tests/grille-test-generique.xltx)
 
+### Gestion de projets
+
+* Guide de [projet](./doc/management/guide-projet.md)
+* Modèle de [plan projet](./doc/management/plan-projet.md)
+* Les questions pour un [weekly meeting](./doc/management/weekly-meeting.md)
+
 ## Réalisé avec
 
 * [Git](https://git-scm.com)
