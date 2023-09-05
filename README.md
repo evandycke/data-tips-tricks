@@ -8,7 +8,10 @@ Quelques trucs et astuces sur la Data.
 
 ## Documents utiles
 
-* Un [guide](./doc/concevoir-pipeline-efficace.md) complet pour concevoir un pipeline ETL efficace
+### Développement
+
+* Un [guide](./doc/developpement/concevoir-pipeline-efficace.md) complet pour concevoir un pipeline ETL efficace
+* Top 10 des [indicateurs](./doc/developpement/top-10-kpi-developpement.md) d'une équipe de développement
 
 ## Réalisé avec
 
