@@ -15,6 +15,11 @@ Quelques trucs et astuces sur la Data.
 * Modèle de [spécifications techniques générales](./doc/analyse/specifications-techniques-generales.md)
 * Modèle de [spécifications techniques détaillées](./doc/analyse/specifications-techniques-detaillees.md)
 
+### Estimations / Planification
+
+* Modèle d'estimation [coûts de développement d'un projet](./templates/planification/estimation-couts-developpement.xltx)
+* Modèle de [diagramme de Gantt](./templates/planification/diagramme-gantt.xltx)
+
 ### Développement
 
 * Un [guide](./doc/developpement/concevoir-pipeline-efficace.md) complet pour concevoir un pipeline ETL efficace
