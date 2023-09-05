@@ -8,6 +8,13 @@ Quelques trucs et astuces sur la Data.
 
 ## Documents utiles
 
+### Analyse / Conception
+
+* Modèle de [spéficiations fonctionnelles générales](./doc/analyse/specifications-fonctionnelles-generales.md)
+* Modèle de [spécifications fonctionnelles détaillées](./doc/analyse/specifications-fonctionnelles-detaillees.md)
+* Modèle de [spécifications techniques générales](./doc/analyse/specifications-techniques-generales.md)
+* Modèle de [spécifications techniques détaillées](./doc/analyse/specifications-techniques-detaillees.md)
+
 ### Développement
 
 * Un [guide](./doc/developpement/concevoir-pipeline-efficace.md) complet pour concevoir un pipeline ETL efficace
